@@ -11,6 +11,8 @@ Proyecto Individual 2 - Data Science datapt03 - Henry
 
 Trabajo en el rol de Analista de Datos en relación a los accidentes de tránsito que tuvieron lugar en la Ciudad Autónoma de Buenos Aires, Argentina, durante el período comprendido entre los años 2016 y 2021. Los accidentes de tránsito constituyen una de las principales causas de muerte y lesiones en esta ciudad. Según el gobierno porteño, los factores que contribuyen a estos accidentes incluyen el incumplimiento de la ley de tránsito, el exceso de velocidad, la falta de respeto a las señales de tránsito, la omisión del uso del cinturón de seguridad o los apoya cabezas, y la conducción con fatiga. Además, se ha observado que los medios de transporte más involucrados en estos accidentes son las motocicletas, seguidas por los automóviles y los autobuses. Los accidentes de tránsito generan un alto costo tanto en términos sociales como económicos, y también tienen un impacto negativo en la calidad de vida de las personas.
 
+
+## Contexto
 Para llevar a cabo este análisis, se cuentan con bases de datos que contienen información sobre los homicidios y las víctimas, obtenida de fuentes oficiales en Argentina. Estas bases de datos son sometidas a un proceso de Extracción, Transformación y Carga (ETL), seguido de un Análisis Exploratorio de Datos (EDA). Este proceso se lleva a cabo utilizando Jupyter Notebook y la librería Pandas. Finalmente, los resultados se presentan de manera visual en PowerBI.
 
 
